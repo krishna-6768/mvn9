@@ -4,7 +4,7 @@
   <groupId>sid</groupId>
   <artifactId>pavan</artifactId>
   <packaging>jar</packaging>
-  <version>1.8</version>
+  <version>7.1</version>
   <name>Maven Quick Start Archetype</name>
   <url>http://maven.apache.org</url>
   <dependencies>
